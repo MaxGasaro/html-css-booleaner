@@ -44,3 +44,40 @@ main {
     background-color: yellow;
 }
 
+.prima-riga {
+    background-color: #1e90ff;
+    height: 10px;
+}
+
+.lorem-ipsum-dolor {
+    font-size: 100%;
+}
+
+.row-head {
+    background-color: #1e90ff;    
+}
+
+.row-blue {
+    background-color: turquoise;
+}
+
+.row-white {
+    background-color: none;
+}
+
+.row-left {
+    display: inline-block;
+    /* float: left; */
+    width: 30%;
+}
+
+.row-right {
+    display: inline-block;
+    /* float: right; */
+    width: 30%;
+}
+
+.row-center {
+    display: inline-block;
+    width: 30%;
+}
