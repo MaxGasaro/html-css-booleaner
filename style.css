@@ -1,0 +1,7 @@
+.pattern {
+    background-image: url('/img/pattern.png');
+    background-repeat: repeat-x;
+    background-color: 67b5fe;
+    height: 50px;
+    width: 100%;
+}
