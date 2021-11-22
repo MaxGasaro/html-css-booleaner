@@ -1,7 +1,46 @@
-.pattern {
-    background-image: url('/img/pattern.png');
-    background-repeat: repeat-x;
-    background-color: 67b5fe;
-    height: 50px;
-    width: 100%;
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
 }
+
+header  {
+    background-image: url('img/pattern.png');
+    background-color: rgba(11, 110, 202, 0.678);
+    background-repeat: repeat;
+    height: 100px;
+    position: relative;
+}
+
+.logo {
+    height: 50%;
+    width: 10%;
+    position: absolute;
+    bottom: 0;
+}
+
+main {
+    margin: 5px;
+}
+
+#title {
+    font-size: 25px;
+}
+
+#writer {
+    color: rgb(24, 175, 245);
+}
+
+.img {
+    margin: 0;
+    padding: 0;
+}
+
+.image-description {
+    margin: 0;
+}
+
+.evidenziatore {
+    background-color: yellow;
+}
+
